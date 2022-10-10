@@ -8,3 +8,11 @@ lorem ipsum
 * `git add README.md`
 
 Show current status with `git status`
+
+## Create repo on GitHub
+
+* Follow along in browser
+
+## git remote
+
+* `git remote add origin git@...`
